@@ -1,0 +1,25 @@
+{
+  "name": "01nodeproject",
+  "version": "1.0.0",
+  "description": "Imtiyaz first node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node basic, microservice, anubhav"
+  },
+  "keywords": [
+    "node",
+    "basic",
+    "microservice",
+    "anubhav"
+  ],
+  "author": "anubhav oberroy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
